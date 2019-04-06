@@ -9,6 +9,7 @@ public class Test1 {
 	
 	public void m2() throws Exception
 	{
+		// comments
 		System.out.println("This is m2 in the Test1");
 	}
 
