@@ -12,5 +12,10 @@ public class Test1 {
 		// comments
 		System.out.println("This is m2 in the Test1");
 	}
+	
+	public void m3()
+	{
+		// written by test2
+	}
 
 }
